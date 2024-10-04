@@ -7,5 +7,5 @@
 - 🌱 I’m presently learning  C programming 
 - 💬My hobbies are coding, acting and swimming.
  
-- ⚡ Fun fact about me :   I like codinh but not the life of coders 
+- ⚡ Fun fact about me :   I like coding but not the life of coders 
  
